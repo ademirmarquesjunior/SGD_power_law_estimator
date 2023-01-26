@@ -7,14 +7,14 @@ Power-law distribution attribute estimator based on SGD. This is the code and da
 Authors:
  [Graciela dos Reis Racolte<sup>1</sup>](https://www.researchgate.net/profile/Graciela-Racolte),
  [Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profile/Ademir_Junior),
- [Eniuce Menezes<sup>2</sup>](),
- [Leonardo Scalco<sup>1</sup>](),
+ [Eniuce Menezes<sup>2</sup>](https://www.researchgate.net/profile/Eniuce-Souza),
+ [Leonardo Scalco<sup>1</sup>](https://www.researchgate.net/profile/Leonardo-Scalco),
  [Delano Ibanez<sup>3</sup>](),	
  [Maurício Roberto Veronez<sup>1</sup>](https://www.researchgate.net/profile/Mauricio_Veronez),
   [Luiz Gonzaga Junior<sup>1</sup>](https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr)
  
 [Vizlab | X-Reality and GeoInformatics Lab<sup>1</sup>](http://vizlab.unisinos.br/), 
-[State University of Maringá, Recife, Brazil<sup>2</sup>](http://www.cpr.uem.br/international/index.php/en/),
+[State University of Maringá, Paraná, Brazil<sup>2</sup>](http://www.cpr.uem.br/international/index.php/en/),
 [CENPES-Petrobras<sup>3</sup>](https://petrobras.com.br/en/our-activities/technology-innovation/)  
 Submitted to Elsevier's Computer & Geoscience
 
