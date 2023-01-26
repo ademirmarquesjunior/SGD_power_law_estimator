@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+scikit-learn
+powerlaw
+math
+sys
+multiprocessing
