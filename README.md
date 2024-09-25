@@ -43,5 +43,13 @@ This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://
 ## How to cite
 
 ```bash
-To be published
+@article{racolte2024stochastic,
+  title={Stochastic Gradient Descent optimization to estimate the power-law fractal index in fracture networks},
+  author={Racolte, Graciela and Marques Jr, Ademir and Menezes, Eniuce and Scalco, Leonardo and Ibanez, Delano Menecucci and Veronez, Mauricio Roberto and Gonzaga Jr, Luiz},
+  journal={Computers \& Geosciences},
+  volume={191},
+  pages={105677},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
